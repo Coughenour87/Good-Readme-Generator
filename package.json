@@ -1,0 +1,25 @@
+{
+  "name": "Good-Readme-Generator",
+  "version": "1.0.0",
+  "description": "Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coughenour87/Good-Readme-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coughenour87/Good-Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/Coughenour87/Good-Readme-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.4"
+  }
+}
