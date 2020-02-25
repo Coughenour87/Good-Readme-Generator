@@ -1,6 +1,7 @@
 ## Good README Generator
 
 ![Photo of finished Product](./images/fin.png)
+![Photo of finished Product](./images/fin2.png)
 
 * The generated README includes a bio image from the user's GitHub profile.
 
