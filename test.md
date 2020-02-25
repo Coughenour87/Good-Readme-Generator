@@ -1,11 +1,11 @@
 
-# test
+# Good-Readme-Generator
 
 ![user badge](https://img.shields.io/badge/license-APACHE%202.0-blueviolet.svg)
 
 ## Description
   
-test
+creating a command-line that dynamically generates a README
   
 
 ## Table of Contents
@@ -21,11 +21,11 @@ test
 ## Installation
 
 ```
-test
+
 ```
 
 ## Usage
-  test
+  nothing
   This project is licensed under APACHE 2.0 license.
 
 ## Tests
@@ -33,12 +33,12 @@ test
 To run tests, run the command:
 
 ```
-test
+
 ```
 
 ## Questions
 
-<img src="https://avatars1.githubusercontent.com/u/28030467?v=4" style='border-radius: 16px' width='30' />
+<img src="https://avatars3.githubusercontent.com/u/57671364?v=4" style='border-radius: 16px' width='30' />
 
-If you have any questions about the repo, open an issue or contact [maxwellallee](https://api.github.com/users/MaxwellAllee) directly at max@noneofyour.biz.
+If you have any questions about the repo, open an issue or contact [Coughenour87](https://api.github.com/users/Coughenour87) directly at jcoughenour18@gmail.com.
 
