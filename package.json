@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Coughenour87/Good-Readme-Generator#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "inquirer": "^7.0.4"
   }
